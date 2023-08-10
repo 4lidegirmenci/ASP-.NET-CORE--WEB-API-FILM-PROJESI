@@ -1,0 +1,137 @@
+2023-08-01 15:59:47.6068 Info Message Template Auto Format enabled
+2023-08-01 15:59:47.7225 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 15:59:47.7468 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-01 16:02:57.4408 Info Message Template Auto Format enabled
+2023-08-01 16:02:57.4793 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-01 16:02:57.4929 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 10:31:54.1396 Info Message Template Auto Format enabled
+2023-08-02 10:31:54.1795 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 10:31:54.1947 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 11:06:53.0351 Info Message Template Auto Format enabled
+2023-08-02 11:06:53.0753 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 11:06:53.0903 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 11:42:17.7346 Info Message Template Auto Format enabled
+2023-08-02 11:42:17.7748 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 11:42:17.7892 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 15:25:47.0600 Info AppDomain Shutting down. LogFactory closing...
+2023-08-02 15:25:47.0785 Info LogFactory has been closed.
+2023-08-02 17:00:36.8301 Info Message Template Auto Format enabled
+2023-08-02 17:00:36.9066 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:00:36.9273 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 17:01:54.0108 Info Message Template Auto Format enabled
+2023-08-02 17:01:54.1056 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:01:54.1290 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 17:05:30.5412 Info Message Template Auto Format enabled
+2023-08-02 17:05:30.6332 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:05:30.6568 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 17:06:57.3565 Info Message Template Auto Format enabled
+2023-08-02 17:06:57.4329 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:06:57.4593 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 17:08:07.7805 Info Message Template Auto Format enabled
+2023-08-02 17:08:07.8659 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:08:07.8892 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 17:09:36.0530 Info Message Template Auto Format enabled
+2023-08-02 17:09:36.1437 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:09:36.1721 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-02 17:12:39.3693 Info Message Template Auto Format enabled
+2023-08-02 17:12:39.4552 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-02 17:12:39.4780 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 14:29:55.6373 Info Message Template Auto Format enabled
+2023-08-03 14:29:55.6933 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 14:29:55.7098 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 14:40:46.7425 Info Message Template Auto Format enabled
+2023-08-03 14:40:46.7911 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 14:40:46.8125 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 15:11:37.6429 Info Message Template Auto Format enabled
+2023-08-03 15:11:37.6848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 15:11:37.7005 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 15:18:22.3124 Info Message Template Auto Format enabled
+2023-08-03 15:18:22.3564 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 15:18:22.3564 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 17:06:21.7298 Info Message Template Auto Format enabled
+2023-08-03 17:06:21.7877 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 17:06:21.8020 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 17:19:02.6369 Info Message Template Auto Format enabled
+2023-08-03 17:19:02.7122 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 17:19:02.7360 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 17:19:17.3320 Info Message Template Auto Format enabled
+2023-08-03 17:19:17.3855 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 17:19:17.4040 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-03 17:31:35.4120 Info Message Template Auto Format enabled
+2023-08-03 17:31:35.4839 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-03 17:31:35.5094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 10:01:39.3332 Info Message Template Auto Format enabled
+2023-08-04 10:01:39.3765 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 10:01:39.3906 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 10:49:58.0583 Info Message Template Auto Format enabled
+2023-08-04 10:49:58.0976 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 10:49:58.1119 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 10:54:33.0180 Info Message Template Auto Format enabled
+2023-08-04 10:54:33.0848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 10:54:33.1053 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 10:56:32.5797 Info Message Template Auto Format enabled
+2023-08-04 10:56:32.6475 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 10:56:32.6668 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 10:59:37.0787 Info Message Template Auto Format enabled
+2023-08-04 10:59:37.1727 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 10:59:37.1989 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 11:24:52.4037 Info Message Template Auto Format enabled
+2023-08-04 11:24:52.5848 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 11:24:52.6152 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 11:35:15.2152 Info Message Template Auto Format enabled
+2023-08-04 11:35:15.2880 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 11:35:15.3174 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 11:38:22.4315 Info Message Template Auto Format enabled
+2023-08-04 11:38:22.5048 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 11:38:22.5252 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-04 17:15:31.1542 Info Message Template Auto Format enabled
+2023-08-04 17:15:31.2242 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-04 17:15:31.2429 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 09:50:27.9718 Info Message Template Auto Format enabled
+2023-08-07 09:50:28.0441 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 09:50:28.0636 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 11:16:21.3414 Info Message Template Auto Format enabled
+2023-08-07 11:16:21.4281 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 11:16:21.4493 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 14:15:05.4826 Info Message Template Auto Format enabled
+2023-08-07 14:15:05.5747 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 14:15:05.5980 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 14:22:15.3467 Info Message Template Auto Format enabled
+2023-08-07 14:22:15.4220 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 14:22:15.4473 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 14:28:46.1739 Info Message Template Auto Format enabled
+2023-08-07 14:28:46.2456 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 14:28:46.2743 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 14:36:27.1382 Info Message Template Auto Format enabled
+2023-08-07 14:36:27.2233 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 14:36:27.2588 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 14:40:16.2330 Info Message Template Auto Format enabled
+2023-08-07 14:40:16.3004 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 14:40:16.3201 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 15:08:11.7304 Info Message Template Auto Format enabled
+2023-08-07 15:08:11.8270 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 15:08:11.8579 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 15:32:57.9597 Info Message Template Auto Format enabled
+2023-08-07 15:32:58.0489 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 15:32:58.0753 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 15:34:08.9524 Info Message Template Auto Format enabled
+2023-08-07 15:34:09.0231 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 15:34:09.0469 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 15:37:26.9102 Info Message Template Auto Format enabled
+2023-08-07 15:37:26.9922 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 15:37:27.0163 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 15:39:18.2794 Info Message Template Auto Format enabled
+2023-08-07 15:39:18.3552 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 15:39:18.3754 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 15:41:30.0749 Info Message Template Auto Format enabled
+2023-08-07 15:41:30.1609 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 15:41:30.1893 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 16:26:38.5166 Info Message Template Auto Format enabled
+2023-08-07 16:26:38.5897 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 16:26:38.6094 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-07 17:18:48.1682 Info Message Template Auto Format enabled
+2023-08-07 17:18:48.2368 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-07 17:18:48.2556 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
+2023-08-09 10:04:31.8096 Info Message Template Auto Format enabled
+2023-08-09 10:04:31.8815 Info Registered target NLog.Targets.FileTarget(Name=logfile)
+2023-08-09 10:04:31.9023 Info Validating config: TargetNames=logfile, ConfigItems=12, FilePath=C:\Users\monster\Desktop\C# Projeler\FilmProjesi\FilmProjesi\nlog.config
